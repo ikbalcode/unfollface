@@ -1,5 +1,5 @@
 
 Unfollow People + Page Facebook
-pkg install python2
 
-python2 unfoll.py <your token>
+pkg install python2
+python2 unfoll.py ( token )
