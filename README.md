@@ -1,5 +1,8 @@
+Unfollow Faccebook People You Are Following
 
-Unfollow People + Page Facebook
+Installl
 
 pkg install python2
-python2 unfoll.py ( token )
+pkg install git
+git clone https://github.com/ikbalcode/unfollfb
+python2 unfoll.py <yourtoken>
