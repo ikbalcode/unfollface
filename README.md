@@ -1,1 +1,2 @@
-unfollow people you are following facebook
+$ pkg install python2
+$ python2 unfoll.py ( your token )
